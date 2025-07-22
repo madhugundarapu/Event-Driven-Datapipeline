@@ -15,7 +15,7 @@ This project builds an **event-driven data pipeline on AWS** using:
 
 ## Project Structure
 
-project-root/
+project-root/ 
 ├── terraform/
 │   ├── main.tf
 │   ├── variables.tf
