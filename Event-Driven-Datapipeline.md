@@ -14,16 +14,6 @@ This project builds an **event-driven data pipeline on AWS** using:
 
 ## Project Structure
 
-
-event-driven-pipeline/
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   ├── provider.tf
-├── lambda/
-│   └── process_event.py
-├── Jenkinsfile
-
 project-root/ 
 ├── terraform/
 │   ├── main.tf
